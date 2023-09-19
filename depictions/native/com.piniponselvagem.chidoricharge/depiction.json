@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/piniponselvagem/cydia/master/assets/Banners/RepoHeader.png",
+	"headerImage": "https://raw.githubusercontent.com/localdevice/repo.me/master/assets/Banners/RepoHeader.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.0",
+					"text": "VERSION_NUMBER",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -34,7 +34,7 @@
 				},
 				{
 					"title": "Developer",
-					"text": "PiniponSelvagem",
+					"text": "DEVELOPER_NAME",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -62,7 +62,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0.0",
+					"title": "VERSION_NUMBER",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"

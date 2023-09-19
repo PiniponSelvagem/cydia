@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: iOS
+Components: main
+Date: Tue, 19 Sep 2023 11:49:54 +0000
+Description: PiniponSelvagem's iOS tweaks repository
+Label: PiniponSelvagem
+Origin: PiniponSelvagem
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 17b5fced9e18e62f2a259bc9de61929b              672 Packages
+ dad6745cafea916ac18a3a0a196374ef              504 Packages.bz2
+ b3969a35b4cd947409dee948254eabd9              467 Packages.gz
+ 8082a0bbf075432c3ab95734a2e07d03              532 Packages.xz
+ 570ab421cf577b93e19b1f9c5932eed2              456 Packages.zst
+ 88bc00c4f2dc1fff3146a4afdaa5c6a6              224 Release
+SHA1:
+ 65cb826452505839bfaa4d59611c5897b86a20cb              672 Packages
+ 9114354d504dd9b4fbc8369fc50734aaba525da6              504 Packages.bz2
+ 22a301d0482076ec9210d271b9e5de47b0418929              467 Packages.gz
+ 342bb583e3c8d8232d19f4faf26c722cbec04861              532 Packages.xz
+ f2e3034e804642a996d67c67ddb28317753307b7              456 Packages.zst
+ fa6583a35c29356b20e5bd1eddb7ff4de7fa44b2              224 Release
+SHA256:
+ aaf7f178ba6cd714df8798ccf566240a923d0aeee75bbaa7b23dd72d23023e10              672 Packages
+ bc7f2caf6836c18872873efabf79e068e233118d6c48012742ffdd7941ce96de              504 Packages.bz2
+ 27545cd2f5f3b36bdd63e93d1284beafdf689dac3bb42be2e4652b77bbbe7266              467 Packages.gz
+ 278e9a2cb3623214f33a7396a9d4cb7ad2905d7f7dd92f0f8d521a45a67ccb53              532 Packages.xz
+ 57352f4ff9476a726f828ae04afdc002995dea1516bfa5aafdc40b03e291db3a              456 Packages.zst
+ 5ce548367516b9f0f1e595f4e06b4a51da057dbc4f73314ecb9ac2b1fe20d62b              224 Release
+SHA512:
+ 0fc2c63380d460f3e9e22f3561652cee517032c04447d23b34dc36614a0d8fb86f27691009323c174a5ba3b16a0dd4273cd14309332b2cc6a4147b289eab6cb5              672 Packages
+ bfaafab17860fd8a7cfc4559d5a393a6d044736f018562358e20b3764c6b425d653037970c5c52b7e8dfc6345286249546bceb1addd18c33af60f697adbe09c4              504 Packages.bz2
+ 7f5e8fe598a1a14fd9eb30ddec4ed4859c25df0a2888f0cb90a91891de377a2db3d37cd87c86e32642599edcf0cb0669e6b45845f2275a526e62eb5ec151bc97              467 Packages.gz
+ 0f9ed56ca0e4e8dd9ee8ab64306411ee457855bd45ab9fa0b4cd928459d80b5f6287e0efcd73d6ec554db2069876448e7684e5491f37c90d19a5016bf36df6fd              532 Packages.xz
+ 58e3fd09a0b4e5a5f32f743e55c3d532971e20700843be3d10cb6cce3b1991c7e75686099fd641ddd7b7adcdf9b568e1b7c07319e98bc19ddbab2c0e168ffdfe              456 Packages.zst
+ a618bfda9ff323557ba709972bce7be7b9cc3c052576d0ef02a2cb2418984204c56dc278a01a5ff0d9d9a7bff007c9472e5c3a2bcdecbdcc6233deb540dcd734              224 Release
