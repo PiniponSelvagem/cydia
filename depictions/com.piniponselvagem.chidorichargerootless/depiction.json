@@ -10,6 +10,14 @@
             "views": [
                 {
 					"class": "DepictionHeaderView",
+					"title": "Notice"
+				},                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Need feedback if this version works, since i do not have a rootless JB.\nMake sure you got Cephei Tweak Support installed (it should install automatically).\nWould also be helpful if you got 'Antoine' installed, and filter 'Message' set to 'Chidori', 'mode' set to 'contains', and let me know if you see any message showing up. Wait about 30s."
+                },
+                {
+					"class": "DepictionHeaderView",
 					"title": "Description"
 				},                
                 {
