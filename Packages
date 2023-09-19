@@ -6,11 +6,11 @@ Maintainer: PiniponSelvagem
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
 Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0_iphoneos-arm.deb
-Size: 31260
-MD5sum: de111bcc125788e516d8385c542c88b2
-SHA1: adb35ac50e0c3b6d6e8d7c2fad541fcd6a357e49
-SHA256: c1ba628584edc64265caa81c1f9cd74c95d81774b7d977f588e6ebf5ad02c853
-SHA512: 97f030836addec648a95c12867a8f5a7b23c45e9c3b6f5a3f50f7a086583683984cfa484a8c6a8373046c817fffdc7ef14408f9838e2e52c0e1cb87f30788412
+Size: 31310
+MD5sum: 6ebcb5d24877ffb51a8f8a02e6d0494f
+SHA1: e2b22641acfe6635cbee0668a5ac564a93271c0c
+SHA256: 7458c6fa47d8a4b52fe37d763b9b589f0ac104dbd718e350f821b85350a4be87
+SHA512: 5e4f6ab67025d7cbf75476efbe18c26a1c8040e1f1dab9318c03e317ff875137d16e673647bcfd0564d7074f84edbd0ed71e5a01d69327d3ed13a48bc8d5423f
 Description: Control your battery using Sasuke's Chidori!
 Name: ChidoriCharge
 Author: PiniponSelvagem
