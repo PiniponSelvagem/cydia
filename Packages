@@ -1,16 +1,16 @@
 Package: com.piniponselvagem.chidoricharge
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.0-rootless
 Section: Tweaks
 Maintainer: PiniponSelvagem
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
-Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0-rootless_iphoneos-arm.deb
-Size: 31318
-MD5sum: be9dc5ae9ffd470e5e5af65e1aea7a81
-SHA1: 5be52bab23ae252509a096620e13dcb2cf207fd4
-SHA256: b86b3d1fd7b7c74e93bcc53d772a1e5f22de86b79e94b7aa06a8aa53c4fb54e9
-SHA512: 957967fe73003c03829a645745d499569c718568bc0a43dc9560ff0a1ac512bea4cb6a3d9033bf4d913194fc5c9031b9be5abc98d291433a25f473181840b875
+Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0-rootless_iphoneos-arm64.deb
+Size: 31360
+MD5sum: 66df83863b7b4eef5c9a460facd5fc35
+SHA1: 2457e87d70169ef31edbaef74eb1042b8378d887
+SHA256: 3253ff7f753b62bcdd3a93ad8ee3e01df84b464778d99211275f7ce12d16d777
+SHA512: d393a892ebfca529a2fd0700f111211fc243f7838492d691f10cd6a212a3cec4d350fd4f19e3d5cc25c0a881906a80de37100eeb8532b2e1b659b2004b1a2d90
 Description: Control your battery using Sasuke's Chidori!
 Name: ChidoriCharge
 Author: PiniponSelvagem
@@ -26,11 +26,11 @@ Maintainer: PiniponSelvagem
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
 Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0_iphoneos-arm.deb
-Size: 31304
-MD5sum: 6f6df649b60e67d33ad1a2d55236cfe4
-SHA1: 15d75bd8efa057cbc9c2d7b608c5bcdbc99df5c1
-SHA256: e930c4be3b0f374aaccf837bbc504d41d826ec5572de888fd9bb8e14058ede14
-SHA512: 38d834f7b0fe99220616b6112c404fe56d64eea4dc83dd7a569d4d5f5bfcf0bff28b91216b04555b5b54d396ff1492ff98ae53827c55b6f6e1eb0a285833614d
+Size: 31260
+MD5sum: de111bcc125788e516d8385c542c88b2
+SHA1: adb35ac50e0c3b6d6e8d7c2fad541fcd6a357e49
+SHA256: c1ba628584edc64265caa81c1f9cd74c95d81774b7d977f588e6ebf5ad02c853
+SHA512: 97f030836addec648a95c12867a8f5a7b23c45e9c3b6f5a3f50f7a086583683984cfa484a8c6a8373046c817fffdc7ef14408f9838e2e52c0e1cb87f30788412
 Description: Control your battery using Sasuke's Chidori!
 Name: ChidoriCharge
 Author: PiniponSelvagem
