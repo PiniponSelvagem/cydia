@@ -1,7 +1,7 @@
 {
 	"minVersion": "15.0",
 	"headerImage": "https://raw.githubusercontent.com/localdevice/repo.me/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"tintColor": "#bb0f09",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -19,12 +19,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "1.0.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "2023-09-19",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -68,7 +68,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023-09-19</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
