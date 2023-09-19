@@ -1,6 +1,6 @@
 <package>
-	<id>com.piniponselvagem.chidoricharge</id>
-	<name>ChidoriCharge</name>
+	<id>com.piniponselvagem.chidorichargerootless</id>
+	<name>ChidoriCharge rootless</name>
 	<version>1.0.2-rootless</version>
 	<compatibility>
 		<firmware>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
         <package>Cephei Tweak Support</package>
 	</dependencies>
-	<shortDescription>Control battery charging using Sasuke's Chidori! Rootless version.</shortDescription>
+	<shortDescription>Control battery charging using Sasuke's Chidori!</shortDescription>
 	<descriptionlist>
 		<description>Stop battery charging at a defined percentage.</description>
 	</descriptionlist>
