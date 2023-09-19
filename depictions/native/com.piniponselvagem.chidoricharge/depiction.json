@@ -1,10 +1,12 @@
 {
 	"minVersion": "15.0",
-	"headerImage": "https://raw.githubusercontent.com/localdevice/repo.me/master/assets/Banners/RepoHeader.png",
+    "class": "DepictionTabView",
+	"headerImage": "https://piniponselvagem.github.io/cydia/assets/repo/Banners/RepoHeader.png",
 	"tintColor": "#bb0f09",
 	"tabs": [
 		{
-			"tabname": "Details",
+            "tabname": "Details",
+            "class": "DepictionStackView",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
@@ -41,10 +43,10 @@
 					"class": "DepictionSpacerView"
 				}
 			],
-			"class": "DepictionStackView"
 		},
 		{
 			"tabname": "Changelog",
+            "class": "DepictionStackView",
 			"views": [
 				{
 					"title": "1.0.0",
@@ -63,7 +65,6 @@
 					"class": "DepictionMarkdownView"
 				}
 			],
-			"class": "DepictionStackView"
 		}
 	],
 	"class": "DepictionTabView"
