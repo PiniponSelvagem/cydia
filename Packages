@@ -3,14 +3,34 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
 Maintainer: PiniponSelvagem
-Installed-Size: 412
+Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
 Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0_iphoneos-arm.deb
-Size: 32516
-MD5sum: 9e9b81536406841ebb21ff3967e98701
-SHA1: 11a7bd9fab45120616bc0974cdc12f4410ba1ff9
-SHA256: cb0a82a8162a596f865cbbe5393fa51503766f35feb5de779c80528fbeddd879
-SHA512: f359b71c314a5c56824ac14a95b88fba8837ec59412d10f9619958b1689cc85dbc271647a84426ce99ff8eef5c47027cc0f5bf59360308272f6301054da5752b
+Size: 31316
+MD5sum: c230d127136a7ef97c161210a184c929
+SHA1: 0a79e4c25cbba8097d81a41444dbffa7f6fec243
+SHA256: 430302957370647d2cf17f16039b22d3027c6e378d62787dcb7a9ecee108c376
+SHA512: 1a27c429996549ec23e70eb795591e4d0ee107680c3cd253159990e8ca21966bd267015aeb365b1116942348c02f2f95bcf2ead1e3a9bf95606557a5a435a4e8
+Description: Control your battery using Sasuke's Chidori!
+Name: ChidoriCharge
+Author: PiniponSelvagem
+Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/icon.png
+Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
+SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
+
+Package: com.piniponselvagem.chidoricharge
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PiniponSelvagem
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
+Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0_iphoneos-arm64_rootless.deb
+Size: 31360
+MD5sum: a09ca9211b284d091e9c2c874aa3b0bc
+SHA1: 2e08df1e73bef67053843c68edf574602e537e9d
+SHA256: f4e12a711b30eab0ec818e2cc94ae3d6b00cec479509cb4d9a83835c18b8e2aa
+SHA512: ef0b7fc22e90efec8fcc66e7ef9a413e54673a899e844957c7347446d925080a674ce6459de0bdd67a42fc706d48348545fe854c09b6d177702ac1d1d5b95a93
 Description: Control your battery using Sasuke's Chidori!
 Name: ChidoriCharge
 Author: PiniponSelvagem
