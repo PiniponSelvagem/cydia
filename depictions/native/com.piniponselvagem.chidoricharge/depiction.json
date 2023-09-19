@@ -15,6 +15,19 @@
 				{
 					"class": "DepictionSeparatorView"
 				},
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Save battery health by setting a charging limit."
+                },
+                {
+					"class": "DepictionSeparatorView"
+				},
 				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
