@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: iOS
 Components: main
-Date: Tue, 19 Sep 2023 11:59:44 +0000
+Date: Tue, 19 Sep 2023 12:19:39 +0000
 Description: PiniponSelvagem's iOS tweaks repository
 Label: PiniponSelvagem
 Origin: PiniponSelvagem
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  8a96b1a414a6f067a0c3488735b4f2ef              771 Packages
  9f23236938a2068c31f913d210263a42              550 Packages.bz2
- 9251907d4ff6f72f26a2c035f3d15a1f              504 Packages.gz
+ 62f1059091bc16d918a34af13d0fa029              504 Packages.gz
  28716b5b78dd23eb7a581409dd887fbe              564 Packages.xz
  883a86d935365d8f9fd66c77deea2de5              496 Packages.zst
- e5950ea7dc25bb55f9793c57770e8cf6              224 Release
+ 4272b9509d69917c27de43b1960dfdc4              224 Release
 SHA1:
  3df94452046da1c4214f897dda94551aba65e84a              771 Packages
  a8b3b0b0e78465526fb105bb892fa25a991edb4b              550 Packages.bz2
- ff28606fec2debd5b0103f7eebeef38072799a54              504 Packages.gz
+ 9202730f4de3c691a269270baf9bf5eb71385e4e              504 Packages.gz
  95db4a7f754b878a71ea4c2500c0fdfa4ab6a615              564 Packages.xz
  961bd8c27b9bd0967d3d3a60b3aa706e23c0bc55              496 Packages.zst
- f2a15981519c7d9d1e7175875291a98a1fb58632              224 Release
+ f0d80c9cc89a688bc0a1bb6091b693ffc85df598              224 Release
 SHA256:
  8f28fa9bf7a83b07ce8764a778d115bf13aebb53755619cb41ab332d0976a3d2              771 Packages
  53ec241dca1e5aff3b86c09b488325caf7cd60e68938ef0c30afb0c41e0bc724              550 Packages.bz2
- 06bfc989703142f703dd9a38266b63f9129fd4b5cd5599d54a7c840b8139c08b              504 Packages.gz
+ 2677a808efbe4da4e1267667cc86f91ff0441c1ecae711bee46fe2e68ea19d7b              504 Packages.gz
  06520f0255991be1d400683b14879282dfda19eb2358f153608761f9edee4228              564 Packages.xz
  1762be1ff9ddc76cda14c0229508d5b2dcec86394a789ebd7abbc7c9ef327917              496 Packages.zst
- ef312e6ccb1dfc0ff743240f4c982c83e494738a758531b568184618b72ee20b              224 Release
+ 6e672aa262ef7af0e8d73dbc59d058bf135f209d268768c470dc13ec016e639a              224 Release
 SHA512:
  c2740810b329298f7ac99f124224e0ee8b290655ea43842e53b44eb45fb84dbdabc9acbe10b55a4ef400c2fd7fbe53aa9d23712f019c8dae5994373a1f89d303              771 Packages
  57c33812af518187bf6e97d2d2e6936f6a4ddef5e6e7f92bc7f61151ba3d043d468f57a0dfdfd62945fa3a300eadbdc6a54d0f1cd5b5d6fd38fe59a64c8e858b              550 Packages.bz2
- d696a9dbb2e3d17bb9533295745dbdcbb7d8ee9940b2bb17c6b91c59edcac474eb07134f363e7055e8963201db38b6889089be11a9a49f6f3b020d5389ec9ae4              504 Packages.gz
+ 553197443a265f4e4771048bda4212eb580ae1940660140c658727563e0ea1da4904f23e19c117c00d6839ae788d787df4d444800b3cb45e8cee248e4ed8505f              504 Packages.gz
  ec9bee46404e407c72f8dd757bacfc227bed9b2487b054246c810b3c378f313900a402fc5b157469033bea050203c1b490486bd4334125dbfb6df78cf94a4a53              564 Packages.xz
  acd3feeaf20d3115951ee9eccf650268cd77f5bde2a0cbc2f373782640d7d2df784d48464e53a932a43407c450151a3100e3cfe0d310a9c6e3bdacf0c13efcb1              496 Packages.zst
- 82fc2d5870c7767be5f29d272ff3cda866f952ca97b57af01c0dfcfcf028d039416bfaaadc159c539d087f209fac5d1899beada33e2a8c6a130d7a4b1792969b              224 Release
+ 79036f30d9cb84d987aff064ab2f3e2517042765b58e8cd3dcb70030cdac082e0733281c78b8a9211fe89028bcd01974bc6d37402f594ca98dcac06b27b25f54              224 Release

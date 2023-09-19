@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/localdevice/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "faith.jasons.samplepackage",
+        "url": "https://piniponselvagem.github.io/assets/Banners/RepoHeader.png",
+        "title": "ChidoriCharge",
+        "package": "com.piniponselvagem.chidoricharge",
         "hideShadow": false
     }
   ]

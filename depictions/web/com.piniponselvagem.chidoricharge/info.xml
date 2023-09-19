@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Control battery chage limit using Sasuke's Chidori.</shortDescription>
+	<shortDescription>Control battery charge limit using Sasuke's Chidori.</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
