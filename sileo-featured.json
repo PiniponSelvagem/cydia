@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://piniponselvagem.github.io/assets/repo/Banners/RepoHeader.png",
+        "url": "https://piniponselvagem.github.io/cydia/assets/repo/Banners/RepoHeader.png",
         "title": "ChidoriCharge",
         "package": "com.piniponselvagem.chidoricharge",
         "hideShadow": false
