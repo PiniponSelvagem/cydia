@@ -93,7 +93,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.0.2-rootless"
+                    "text": "1.0.2b-rootless"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -140,7 +140,7 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.0.2-rootless"
+                    "title": "1.0.2b-rootless"
                 },
                 {
                     "class": "DepictionMarkdownView",
