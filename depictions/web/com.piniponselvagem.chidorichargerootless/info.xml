@@ -1,7 +1,7 @@
 <package>
 	<id>com.piniponselvagem.chidoricharge</id>
 	<name>ChidoriCharge</name>
-	<version>1.0.0-rootless</version>
+	<version>1.0.2-rootless</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release.</change>
+		<change>Finally fixed preferences, by including 'rootless.h.'. Tested using iPhone SE on iOS 15.7.8.</change>
 	</changelog>
 	<links>
 		<link>

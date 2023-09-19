@@ -10,14 +10,6 @@
             "views": [
                 {
 					"class": "DepictionHeaderView",
-					"title": "Notice"
-				},                
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Need feedback if this version works, since i do not have a rootless JB.\nMake sure you got Cephei Tweak Support installed (it should install automatically).\nWould also be helpful if you got 'Antoine' installed, and filter 'Message' set to 'Chidori', 'mode' set to 'contains', and let me know if you see any message showing up. Wait about 30s."
-                },
-                {
-					"class": "DepictionHeaderView",
 					"title": "Description"
 				},                
                 {
@@ -101,7 +93,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.0.0"
+                    "text": "1.0.2-rootless"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -132,7 +124,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Initial release."
+                    "markdown": "- Initial release. (Prefences issues)"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -142,7 +134,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed preferences, by compiling preferences also to rootless."
+                    "markdown": "- Fixed preferences, by compiling preferences also to rootless. (Prefences issues)"
                 },
                 {
                     "class": "DepictionSubheaderView",
