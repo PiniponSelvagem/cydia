@@ -18,3 +18,24 @@ Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/i
 Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
 SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
 
+Package: com.piniponselvagem.chidorichargerootless
+Architecture: iphoneos-arm64
+Version: 1.0.2-rootless
+Section: Tweaks
+Maintainer: PiniponSelvagem
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
+Conflicts: com.piniponselvagem.chidoricharge
+Filename: ./debians/com.piniponselvagem.chidorichargerootless_1.0.2-rootless_iphoneos-arm64.deb
+Size: 31352
+MD5sum: 2e716c7ad0f6ef294f5942a795ee0ec5
+SHA1: 02f45dafa9f689c1001f2b15be1db8ed7f9b5e16
+SHA256: 9f873c77db89183f66b0ae2a227308ccf058cfe4784fdb7a32ab206d85988348
+SHA512: 7d1e996ae1757e0c8b87f75a7ae2e18801bd503f7fb504b94818a8bcc6b0c13ddb81f4d79ac4ac40864da4db54eb9c88918bc5b2f7af5bf243becf91bda20ae0
+Description: Control your battery using Sasuke's Chidori!
+Name: ChidoriCharge
+Author: PiniponSelvagem
+Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/icon.png
+Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
+SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
+
