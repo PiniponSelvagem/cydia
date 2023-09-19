@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
-		<version>1.0.0</version>
+		<version>1.0.0-rootless</version>
 		<change>Initial release.</change>
+	</changes>
+    <changes>
+		<version>1.0.1-rootless</version>
+		<change>Fixed preferences, by compiling preferences also to rootless.</change>
 	</changes>
 </changelog>
