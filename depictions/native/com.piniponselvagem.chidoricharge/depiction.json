@@ -68,7 +68,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize":"{384, 512}",
+                    "itemSize":"{192, 256}",
                     "screenshots": [
                         {
                             "url": "https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/preferences.png",
