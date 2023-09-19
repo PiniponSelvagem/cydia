@@ -3,15 +3,16 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
 Maintainer: PiniponSelvagem
-Installed-Size: 5784
+Installed-Size: 688
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0_iphoneos-arm.deb
-Size: 3395396
-MD5sum: c144ab701f35afb5f06d4aab17ec49c3
-SHA1: 45ff8980bf4b28ee400a5e7d403d0a85d0cb471b
-SHA256: 3cae48cbb2eac75afcdaaf765487ada11347f7bb3def3dba90fcd2218fa835f4
-SHA512: 93444943fdd0170772af421e17d63eabe20ce4a4bcd9e9d53e9e643afb0b1419e02103adba9705b9c59b979552d2f05a4d1a4ccbc777581cc85c5b45f7f0ede5
+Size: 75076
+MD5sum: e22342f15c94f370053837e17741ccf2
+SHA1: 258d3a0a9a3171c0175c7b7903500584a0018b60
+SHA256: 58c9dc2487ca34e01c6df81a786387dd4c955bde14cd9e96a41f9894cb174550
+SHA512: 642569d5a77b464bd4bf6684d53610cc7cb5fb1b5e2c0bd14ddb220545088783994e18bba57c58a9903728aba489d51ca072c9365d5991d23a0e43c41b41982b
 Description: Control your battery using Chidori!
 Name: ChidoriCharge
 Author: PiniponSelvagem
+Depiction: https://piniponselvagem.github.io/repo/depictions/web/?p=com.piniponselvagem.chidoricharge
 
