@@ -108,7 +108,7 @@
 					"title": "Follow on Twitter",
 					"action": "https://www.twitter.com/PiniponSelvagem",
 					"class": "DepictionTableButtonView"
-				},
+				}
             ]
         },
         
@@ -125,9 +125,8 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "- Initial release."
-                },
-			],
+                }
+			]
 		}
-	],
-	"class": "DepictionTabView"
+	]
 }

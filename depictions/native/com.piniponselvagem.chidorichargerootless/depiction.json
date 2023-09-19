@@ -116,10 +116,10 @@
 					"title": "Follow on Twitter",
 					"action": "https://www.twitter.com/PiniponSelvagem",
 					"class": "DepictionTableButtonView"
-				},
+				}
             ]
         },
-        
+
         {
             "tabname": "Change Log",
             "class": "DepictionStackView",
@@ -134,8 +134,27 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "- Initial release."
                 },
-			],
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.1-rootless"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fixed preferences, by compiling preferences also to rootless."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.2-rootless"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Finally fixed preferences, by including 'rootless.h.'. Tested using iPhone SE on iOS 15.7.8."
+                }
+			]
 		}
-	],
-	"class": "DepictionTabView"
+	]
 }
