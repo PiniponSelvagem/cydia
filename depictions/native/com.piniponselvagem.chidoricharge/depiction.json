@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
     "class": "DepictionTabView",
-	"headerImage": "https://piniponselvagem.github.io/cydia/assets/repo/Banners/RepoHeader.png",
+	"headerImage": "https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/banner.png",
 	"tintColor": "#BB0F09",
 	"tabs": [
 		{
@@ -55,6 +55,25 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "- The battery can charge a bit over the defined target charge percentage, by 1% or 2%.\n- If the battery keeps charging over the target pergcentage at more than 5%, it means the tweak is not working correctly. Try a ***repring***, and if that does not work do a ***userspace reboot***.\n- Wireless charging, or Apple charging cases. Currently I do not have a device/case to test those situations. If the battery does not stop charging at the target percentage, let me know."
                 },
+
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                
+                {
+					"class": "DepictionHeaderView",
+					"title": "Screenshots"
+				},
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/preferences.png",
+                            "accessibilityText": "Preferences screenshot."
+                        }
+                    ]
+                },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
@@ -83,6 +102,11 @@
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
+                {
+					"title": "Follow on Twitter",
+					"action": "https://www.twitter.com/PiniponSelvagem",
+					"class": "DepictionTableButtonView"
+				},
             ]
         },
         
@@ -94,11 +118,11 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.8.1"
+                    "title": "1.0.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Dopamine support! \n- Fix a bug that broke compatibility with some apps where 1.7.1 worked"
+                    "markdown": "- Initial release."
                 },
 			],
 		}

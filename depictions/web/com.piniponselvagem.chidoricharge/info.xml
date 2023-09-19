@@ -9,37 +9,26 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+        <package>ws.hbang.common</package>
 	</dependencies>
-	<shortDescription>Control battery charge limit using Sasuke's Chidori.</shortDescription>
+	<shortDescription>Control battery charging using Sasuke's Chidori!</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Stop battery charging at a defined percentage.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>Preferences screenshot.</description>
+			<image>preferences.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release.</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Follow on Twitter</name>
+			<url>https://www.twitter.com/PiniponSelvagem</url>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
