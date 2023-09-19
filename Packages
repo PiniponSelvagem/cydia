@@ -25,15 +25,14 @@ Section: Tweaks
 Maintainer: PiniponSelvagem
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common
-Conflicts: com.piniponselvagem.chidoricharge
 Filename: ./debians/com.piniponselvagem.chidorichargerootless_1.0.2-rootless_iphoneos-arm64.deb
-Size: 31352
-MD5sum: 2e716c7ad0f6ef294f5942a795ee0ec5
-SHA1: 02f45dafa9f689c1001f2b15be1db8ed7f9b5e16
-SHA256: 9f873c77db89183f66b0ae2a227308ccf058cfe4784fdb7a32ab206d85988348
-SHA512: 7d1e996ae1757e0c8b87f75a7ae2e18801bd503f7fb504b94818a8bcc6b0c13ddb81f4d79ac4ac40864da4db54eb9c88918bc5b2f7af5bf243becf91bda20ae0
+Size: 31350
+MD5sum: dc29acba08f28740b49bca64759fcbd3
+SHA1: 240bee562f2909d89c976510c8682f6e7254b531
+SHA256: d1de81470837a78e0076ecbf7079bb6516cd426275a76d256b8cdeaba40c8c6f
+SHA512: 2fc85f5d426101e491ddf34ab592a60d3a5d787293c347d6bcd8317888594a968f1341740a0659c7ce6658294d1f7baf73f18a0ec89a21b94201f121977ac649
 Description: Control your battery using Sasuke's Chidori!
-Name: ChidoriCharge
+Name: ChidoriCharge rootless
 Author: PiniponSelvagem
 Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/icon.png
 Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
