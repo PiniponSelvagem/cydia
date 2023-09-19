@@ -2,81 +2,122 @@
 	"minVersion": "0.1",
     "class": "DepictionTabView",
 	"headerImage": "https://piniponselvagem.github.io/cydia/assets/repo/Banners/RepoHeader.png",
-	"tintColor": "#bb0f09",
+	"tintColor": "#BB0F09",
 	"tabs": [
 		{
             "tabname": "Details",
             "class": "DepictionStackView",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "Control battery charge limit using Sasuke's Chidori."
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Control battery charging using Sasuke's Chidori!"
+                },
+                
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
                     "title": "Features"
                 },
+                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Save battery health by setting a charging limit."
+                    "markdown": "- Stop battery charging at a defined percentage."
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Preferences"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- **Enable** Self-explanatory.\n- **Limit charging slider** Percentage at where to stop charging."
+                },
+                
+                {
+					"class": "DepictionHeaderView",
+					"title": "Known Issues"
+				},                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- The battery can charge a bit over the defined target charge percentage, by 1% or 2%.\n- If the battery keeps charging over the target pergcentage at more than 5%, it means the tweak is not working correctly. Try a ***repring***, and if that does not work do a ***userspace reboot***.\n- Wireless charging, or Apple charging cases. Currently I do not have a device/case to test those situations. If the battery does not stop charging at the target percentage, let me know."
+                },
+
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                
+                {
+					"class": "DepictionHeaderView",
+					"title": "Latest Version"
+				},
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "PiniponSelvagem"
                 },
                 {
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "Version",
-					"text": "1.0.0",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Released",
-					"text": "2023-09-19",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "PiniponSelvagem",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-		},
-		{
-			"tabname": "Changelog",
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.x"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Source Code",
+                            "action": "https://github.com/Paisseon/Satella",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "CyPwn Discord",
+                            "action": "https://discord.gg/cypwn",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        
+        {
+            "tabname": "Change Log",
             "class": "DepictionStackView",
-			"views": [
-				{
-					"title": "1.0.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Initial release.",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023-09-19</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Dopamine support! \n- Fix a bug that broke compatibility with some apps where 1.7.1 worked"
+                },
 			],
 		}
 	],
