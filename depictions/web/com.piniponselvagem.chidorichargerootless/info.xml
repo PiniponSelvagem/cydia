@@ -1,0 +1,34 @@
+<package>
+	<id>com.piniponselvagem.chidoricharge</id>
+	<name>ChidoriCharge</name>
+	<version>1.0.0-rootless</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>Cephei Tweak Support</package>
+	</dependencies>
+	<shortDescription>Control battery charging using Sasuke's Chidori! Rootless version.</shortDescription>
+	<descriptionlist>
+		<description>Stop battery charging at a defined percentage.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Preferences screenshot.</description>
+			<image>preferences.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow on Twitter</name>
+			<url>https://www.twitter.com/PiniponSelvagem</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
