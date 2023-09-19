@@ -9,7 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-        <package>ws.hbang.common</package>
+        <package>Cephei Tweak Support</package>
 	</dependencies>
 	<shortDescription>Control battery charging using Sasuke's Chidori!</shortDescription>
 	<descriptionlist>

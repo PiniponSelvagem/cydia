@@ -40,7 +40,7 @@
 				},                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- **Enable**: Self-explanatory.\n- **Target charging slider**: Percentage at where to stop charging."
+                    "markdown": "- **Enable**: Self-explanatory.\n- **Target charging slider**: Percentage when to stop charging."
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -53,7 +53,7 @@
 				},                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- The battery can charge a bit over the defined target charge percentage, by 1% or 2%.\n- If the battery keeps charging over the target pergcentage at more than 5%, it means the tweak is not working correctly. Try a ***repring***, and if that does not work do a ***userspace reboot***.\n- Wireless charging, or Apple charging cases. Currently I do not have a device/case to test those situations. If the battery does not stop charging at the target percentage, let me know."
+                    "markdown": "- The battery can charge a bit over the defined target charge percentage, by 1% or 2%.\n- If the battery keeps charging over the target percentage at more than 5%, it means the tweak is not working correctly. Try a ***repring***, and if that does not work, try a ***userspace reboot***.\n- Wireless charging, or Apple charging cases. Currently I do not have a device or case to test those situations. If the battery does not stop charging at the target percentage, let me know."
                 },
 
                 {
