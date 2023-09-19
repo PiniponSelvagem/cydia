@@ -1,5 +1,5 @@
 {
-	"minVersion": "15.0",
+	"minVersion": "0.1",
     "class": "DepictionTabView",
 	"headerImage": "https://piniponselvagem.github.io/cydia/assets/repo/Banners/RepoHeader.png",
 	"tintColor": "#bb0f09",
