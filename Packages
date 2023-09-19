@@ -6,14 +6,14 @@ Maintainer: PiniponSelvagem
 Installed-Size: 688
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/com.piniponselvagem.chidoricharge_1.0.0_iphoneos-arm.deb
-Size: 75068
-MD5sum: 328ec85665f768d736324bbd5abdb46e
-SHA1: 5f5b64f274d251556ce22a48ea3e7a6cd7cf0f44
-SHA256: b2d5cee260272878322812338c99ac8a3d7d0c81f8e3954f12bedd1e220a32d5
-SHA512: 7d24abf558a4903827ddad44c5820261dde5609717b736fae8404426bbcb5495ba092edd71c2949813f7cf6e9726134cbb1eb87a8ca5ff7449c452a1355a568f
+Size: 75028
+MD5sum: 5a8831c712615c30cbc1415a15ec59d0
+SHA1: c68f93f266305dde6b0714bacce07bf811ae523a
+SHA256: 09c9bda8cdd5dd6116b188ac99dac904df1903cbf81919e0613fcc33d66d0bb3
+SHA512: 7f8d6ac4569f446e76d3196f806390b8df6282da13ad0dfac6b825637c41a6f5bde27421e1ac58f4257a54db9e14f77d4ef09f8b411c7fdce155c5dc66d68c73
 Description: Control your battery using Chidori!
 Name: ChidoriCharge
 Author: PiniponSelvagem
-Depiction: https://piniponselvagem.github.io/repo/depictions/web/?p=com.piniponselvagem.chidoricharge
-SileoDepiction: https://piniponselvagem.github.io/repo/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
+Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
+SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
 
