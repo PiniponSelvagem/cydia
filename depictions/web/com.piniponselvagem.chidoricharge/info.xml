@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release.</change>
+		<change>Added rootless support.</change>
 	</changelog>
 	<links>
 		<link>
