@@ -93,7 +93,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.0.0"
+                    "text": "1.1.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -116,6 +116,16 @@
             "tabname": "Change Log",
             "class": "DepictionStackView",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.1.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added rootless support."
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
