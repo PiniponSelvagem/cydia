@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.2.0</version>
+        <change>Added CC module to toggle tweak monitoring status.</change>
+    </changes>
+    <changes>
         <version>1.1.0</version>
         <change>Added rootless support.</change>
     </changes>

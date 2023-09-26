@@ -27,7 +27,7 @@
 				},               
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Stop battery charging at a defined percentage."
+                    "markdown": "- Stop battery charging at a defined percentage.\n- CC module to toggle tweak monitoring status. Similar to **Enable** setting, but does not unload the tweak. Resets back to YES on respring."
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -72,7 +72,11 @@
                     "screenshots": [
                         {
                             "url": "https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/preferences.png",
-                            "accessibilityText": "Preferences screenshot."
+                            "accessibilityText": "Preferences page"
+                        },
+                        {
+                            "url": "https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/ccmodule.png",
+                            "accessibilityText": "CC module"
                         }
                     ]
                 },
@@ -93,7 +97,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.1.0"
+                    "text": "1.2.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -116,6 +120,16 @@
             "tabname": "Change Log",
             "class": "DepictionStackView",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added CC module to toggle tweak monitoring status."
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

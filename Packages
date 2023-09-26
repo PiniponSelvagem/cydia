@@ -58,3 +58,43 @@ Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/i
 Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
 SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
 
+Package: com.piniponselvagem.chidoricharge
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: PiniponSelvagem
+Installed-Size: 588
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common, com.opa334.ccsupport
+Filename: ./debians/com.piniponselvagem.chidoricharge_1.2.0_iphoneos-arm.deb
+Size: 74172
+MD5sum: 5b26f5abb709f95e7e703e97e7f69232
+SHA1: 3aeb79cdcda07798a60b3ae8eeb543d59a5b454e
+SHA256: dfbdc1820afdb4e821f9682d7b394d61d831497144aebde3074c246d7d665c92
+SHA512: 7de51ee7f626aa3ce00ae2e804a777630653801bcc12773a0bcca47d77754a28378f479e16b0f136fa511f5f25404c00d4324c8bdaa7406ca2af923980568ecf
+Description: Control your battery using Sasuke's Chidori!
+Name: ChidoriCharge
+Author: PiniponSelvagem
+Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/icon.png
+Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
+SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
+
+Package: com.piniponselvagem.chidoricharge
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: PiniponSelvagem
+Installed-Size: 588
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common, com.opa334.ccsupport
+Filename: ./debians/com.piniponselvagem.chidoricharge_1.2.0_iphoneos-arm64.deb
+Size: 74258
+MD5sum: f3b9e2083dc299d1b5416fdaaa3fd3ce
+SHA1: fc4b6dfc9be385aeed7093c9ff0c20148cf8930d
+SHA256: 7e0896cd9ba2c1ef85ebf63eff108ff6b9ba03c0fb6e39205d3fdf7d58af1100
+SHA512: 4009ad1c5a7547a6255e28123cb3eccd9732b07b1d62556cd7ba924632e63262d829b69b23d917fc0642d120b24f6d24bb199b12d3779c0feae2da07f95a4c58
+Description: Control your battery using Sasuke's Chidori!
+Name: ChidoriCharge
+Author: PiniponSelvagem
+Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/icon.png
+Depiction: https://piniponselvagem.github.io/cydia/depictions/web/?p=com.piniponselvagem.chidoricharge
+SileoDepiction: https://piniponselvagem.github.io/cydia/depictions/native/com.piniponselvagem.chidoricharge/depiction.json
+
