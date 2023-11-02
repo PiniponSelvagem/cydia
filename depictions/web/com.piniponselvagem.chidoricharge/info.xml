@@ -1,7 +1,7 @@
 <package>
 	<id>com.piniponselvagem.chidoricharge</id>
 	<name>ChidoriCharge</name>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
@@ -26,7 +26,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added CC module to toggle tweak monitoring status.</change>
+		<change>Fixed possible ping-pong effect, repeatedly activating and deactivating charging.</change>
 	</changelog>
 	<links>
 		<link>

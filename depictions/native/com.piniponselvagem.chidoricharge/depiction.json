@@ -124,6 +124,16 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
+                    "title": "1.2.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fixed possible ping-pong effect, repeatedly activating and deactivating charging."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
                     "title": "1.2.0"
                 },
                 {
