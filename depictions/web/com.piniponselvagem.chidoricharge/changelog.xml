@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.3.1</version>
+        <change>Fixed rare occasion stop charging request not working due to out of sync.</change>
+    </changes>
+    <changes>
         <version>1.3.0</version>
         <change>Fixed stop charging sometimes not working during device sleep.</change>
     </changes>
