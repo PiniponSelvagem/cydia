@@ -1,7 +1,7 @@
 <package>
 	<id>com.piniponselvagem.chidoricharge</id>
 	<name>ChidoriCharge</name>
-	<version>1.3.1</version>
+	<version>1.3.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
@@ -26,7 +26,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed rare occasion stop charging request not working due to out of sync.</change>
+		<change>Fixed stop charging still going out of sync with iOS own power management library.</change>
 	</changelog>
 	<links>
 		<link>

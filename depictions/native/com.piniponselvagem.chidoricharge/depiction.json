@@ -49,13 +49,20 @@
 
                 {
 					"class": "DepictionHeaderView",
-					"title": "Known Issues"
+					"title": "Informations"
 				},                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- The battery can charge a bit over the defined target charge percentage, by 1% or 2%.\n- If the battery keeps charging over the target percentage at more than 5%, it means the tweak is not working correctly. Try a ***repring***, and if that does not work, try a ***userspace reboot***.\n- Wireless charging, or Apple charging cases. Currently I do not have a device or case to test those situations. If the battery does not stop charging at the target percentage, let me know."
+                    "markdown": "- DO NOT disable PowerUIAgent daemon in iCleaner.\n"
+                },              
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- The battery can charge a bit over the defined target charge percentage, by 1% or 2%.\n"
                 },
-
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- It is adviced to disable \"Optimized Battery Charging\" in iOS battery settings, otherwise this tweak might not work correctly.\n"
+                },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
@@ -97,7 +104,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.3.1"
+                    "text": "1.3.2"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -120,6 +127,16 @@
             "tabname": "Change Log",
             "class": "DepictionStackView",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.3.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fixed stop charging still going out of sync with iOS own power management library."
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
